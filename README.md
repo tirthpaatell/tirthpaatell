@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi, I'm **Tirth Patel**
 
-<!--
-**tirthpaatell/tirthpaatell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Frontend-focused Full-Stack Developer
+- 🎯 Building modern, scalable, and user-first web applications
+- 🚀 Founder & builder of real-world tech products
+- 🎨 Strong eye for UI/UX, accessibility, and design systems
+- 🧠 Focused on performance optimization and clean architecture
+- 🛠️ Experience with product-based and startup-level projects
+- 💼 Freelancer open to collaborations and opportunities
 
-Here are some ideas to get you started:
+Driven by curiosity. Built for impact.  
+Always learning. Always building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
